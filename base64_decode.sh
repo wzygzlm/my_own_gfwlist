@@ -4,10 +4,10 @@ echo "OS is $OSTYPE."
 if [[ "$OSTYPE" == "linux-gnu"* ]]; then
         # Linux
         # Maybe like this, haven't checked it yet
-        base64 -w76 "$1" > gfwlist.txt
+        base64 --decode "$1"
 elif [[ "$OSTYPE" == "darwin"* ]]; then
         # Mac OSX
-        base64 -b 76 "$1" > gfwlist.txt
+        base64 --decode "$1"
 elif [[ "$OSTYPE" == "cygwin" ]]; then
         # POSIX compatibility layer and Linux environment emulation for Windows
 elif [[ "$OSTYPE" == "msys" ]]; then
