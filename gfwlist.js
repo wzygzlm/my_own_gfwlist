@@ -92,5 +92,8 @@
 ! tianyancha
 ||tianyancha.com
 
+! Speed test
+||speedtest.cn
+
 ! IP address test
 ||ip138.com
