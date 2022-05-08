@@ -6,3 +6,6 @@ It is very simple to use it. Change the websites that require proxy in gfwlist.j
 The command is :
 
 ./base64_encode.sh gfwlist.js
+
+Or use an online websiter for conversion, such as:
+https://tool.oschina.net/encrypt?type=3
