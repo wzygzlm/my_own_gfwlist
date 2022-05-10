@@ -7,7 +7,6 @@
 ||ip138.com
 
 ||google.com.tw
-||google.com.hk
 ||iqiyi.com
 ||iqiyipic.com
 ||qy.net
