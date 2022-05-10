@@ -3,9 +3,10 @@
 ! GFWList with Unlock CHINA streaming
 ! Chinese secondary domain
 
-||ip138.com
 ||upyun.com
+||ip138.com
 
+||google.com.tw
 ||google.com.hk
 ||iqiyi.com
 ||iqiyipic.com
