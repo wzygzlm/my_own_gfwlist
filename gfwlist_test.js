@@ -13,3 +13,6 @@
 ! IP address test
 ||ip138.com
 ||upyun.com
+
+||google.com
+||google.com.hk
