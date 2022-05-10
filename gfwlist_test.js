@@ -12,3 +12,4 @@
 ||iqiyipic.com
 ||qy.net
 ||speedtest.cn
+||ipinfo.io
