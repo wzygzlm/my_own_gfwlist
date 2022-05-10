@@ -97,3 +97,4 @@
 
 ! IP address test
 ||ip138.com
+||upyun.com
